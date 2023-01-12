@@ -4,3 +4,4 @@ snapchat.com
 tinder.com
 instagram.com
 linkedin.com
+in.linkedin.com
