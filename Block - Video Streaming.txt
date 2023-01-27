@@ -20,4 +20,20 @@ PeerTube.com
 PeerTube.in
 IMDb.com
 IMDb.in
+savefrom.net
+ssyoutube.com
+en.y2mate.is
+notube.io
+hulu.com
+veoh.com
+voot.com
+zee5.com
+mxplayer.in
+justwatch.com
+dailymotion.com
+namasha.com
+jiocinema.com
+fmovies.to
+nicovideo.jp
+
 
