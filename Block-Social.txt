@@ -1,6 +1,7 @@
 facebook.com
 a-graph.facebook.com
 graph.instagram.com
+mqtt-mini.facebook.com
 twitter.com
 snapchat.com
 tinder.com
