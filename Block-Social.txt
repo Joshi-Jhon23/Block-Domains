@@ -1,4 +1,6 @@
 facebook.com
+a-graph.facebook.com
+graph.instagram.com
 twitter.com
 snapchat.com
 tinder.com
