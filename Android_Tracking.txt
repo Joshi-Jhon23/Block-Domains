@@ -1,3 +1,13 @@
+# Facebook
+# graph.facebook.com # needed for facebook groups
+# b-graph.facebook.com # needed for facebook pages manager
+a-graph.facebook.com
+graph.instagram.com
+# b-api.facebook.com # required for Facebook Messenger login on mobile
+b-api.facebook.com
+# edge-mqtt.facebook.com # needed for facebook groups
+mqtt-mini.facebook.com
+
 # Crashlytics
 e.crashlytics.com
 reports.crashlytics.com
