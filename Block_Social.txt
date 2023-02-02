@@ -670,12 +670,19 @@ linkedin.com
 0.0.0.0 za.linkedin.com
 
 
+TELEGRAM
+Telegram.com
+t.me
+telegram.me
+telegram.org
+telesco.pe
+tg.dev
+
 snapchat.com
 tinder.com
 TikTok.com
 TikTok.in
 WeChat.com
-Telegram.com
 Telegram.in
 Pinterest.com
 Pinterest.in
