@@ -38,7 +38,7 @@ curl -sSL https://install.pi-hole.net | bash
 
 
 
-**My Setup**
+# My Setup
 
 * Proxmox (VM)
 * Ubuntu VM - Installed Pi-Hole (using Cloudflare Zero Trust DNS)
