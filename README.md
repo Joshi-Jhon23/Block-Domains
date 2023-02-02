@@ -5,7 +5,7 @@ Pi-Hole - Website List to Block
 Welcome to the Block-Domains wiki!
 Block-Domains Blocklists to block based on the category for home and business.
 
-This Blocklist is created specifically for Pi-Hole
+This Blocklist is created specially for Pi-Hole
 
 
 # RAW Adlist links:
