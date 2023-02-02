@@ -10,7 +10,9 @@ This Blocklist is created specifically for Pi-Hole
 
 Getting Started Here are Tutorials where you can learn how to add blocklists to Pi-hole:
 
-Login to your Pi-Hole
+# Pi-hole Setup (adding blocklists) 
+
+*Login to your Pi-Hole
 
 * Navigate to adlists
 
