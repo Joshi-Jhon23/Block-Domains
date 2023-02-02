@@ -34,3 +34,12 @@ One-Step Automated Install
 Those who want to get started quickly and conveniently may install Pi-hole using the following command:
 
 curl -sSL https://install.pi-hole.net | bash
+
+
+
+
+**My Setup**
+
+* Proxmox (VM)
+* Ubuntu VM - Installed Pi-Hole (using Cloudflare Zero Trust DNS)
+* Cloudflare Zero Trust as second layer Blocking tool for Pihole
