@@ -12,7 +12,7 @@ Getting Started Here are Tutorials where you can learn how to add blocklists to 
 
 # Pi-hole Setup (adding blocklists) 
 
-*Login to your Pi-Hole
+* Login to your Pi-Hole
 
 * Navigate to adlists
 
