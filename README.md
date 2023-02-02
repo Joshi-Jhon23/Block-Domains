@@ -10,10 +10,11 @@ This Blocklist is created specifically for Pi-Hole
 
 # RAW Adlist links:
 
+Find all the RAW Adblocks links below for your Pi-Hole
+
 https://github.com/Joshi-Jhon23/Block-Domains/wiki/Block-Domains---RAW-Links
 
 
-Getting Started Here are Tutorials where you can learn how to add blocklists to Pi-hole:
 
 # Pi-hole Setup (adding blocklists) 
 
