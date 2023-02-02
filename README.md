@@ -28,3 +28,9 @@ Pi-hole: https://discourse.pi-hole.net/t/how-do-i-add-additional-block-lists-to-
 
 # Requirements
 Pi-hole: https://pi-hole.net/
+
+One-Step Automated Install
+
+Those who want to get started quickly and conveniently may install Pi-hole using the following command:
+
+curl -sSL https://install.pi-hole.net | bash
