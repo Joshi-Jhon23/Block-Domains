@@ -671,6 +671,7 @@ linkedin.com
 
 
 TELEGRAM
+telegram.org
 Telegram.com
 t.me
 telegram.me
