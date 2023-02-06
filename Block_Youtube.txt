@@ -31,8 +31,8 @@ m.youtube.com
 music.youtube.com
 mx.youtube.com
 nl.youtube.com
-ns2.google.com
-ord31s21-in-f14.1e100.net
+#ns2.google.com
+#ord31s21-in-f14.1e100.net
 p.youtube.com
 r1---sn-5hnekn76.c.youtube.com
 r2---sn-1gi7znes.c.youtube.com
@@ -112,7 +112,7 @@ www.youtube-nocookie.com
 youtu.be
 youtube.l.google.com
 ytimg.com
-ytimg.l.google.com
+#ytimg.l.google.com
 accounts.youtube.com
 admin-dev.youtube.com
 admin.youtube.com
