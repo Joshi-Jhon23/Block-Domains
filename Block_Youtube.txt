@@ -15,7 +15,7 @@ fcmatch.youtube.com
 fr.youtube.com
 gaming.youtube.com
 gdata.youtube.com
-googleapis.l.google.com
+#googleapis.l.google.com
 googlesyndication.com
 googlevideo.com
 hk.youtube.com
