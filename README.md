@@ -49,3 +49,6 @@ curl -sSL https://install.pi-hole.net | bash
 * Proxmox (VM)
 * Ubuntu VM - Installed Pi-Hole (using Cloudflare Zero Trust DNS)
 * Cloudflare Zero Trust as second layer Blocking tool for Pihole
+
+# Best collection of Blocklists
+https://filterlists.com/
